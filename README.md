@@ -1,1 +1,0 @@
-This repository contains my solutions to LeetCode problems for practice and interview preparation.
